@@ -1,0 +1,12 @@
+streamlit
+numpy
+requests
+pandas
+pyotp
+logzero
+websocket-client
+smartapi-python
+watchdog
+openpyxl
+jinja2
+python-dateutil
